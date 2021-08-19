@@ -1,0 +1,232 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	 /*header start*/
+	.drp_menu {
+		    min-width:164px;
+		    padding: 5px 5px;
+		}
+	 .drp_menu[data-bs-popper] {
+		    top: -14px;
+		    left: 78px;
+		}
+		.b_s_custom {
+			   margin-left: -25px;
+			}
+	/*header end*/
+     /*slider start*/
+     .s_content {
+	    padding-top: 72px;
+	    padding-bottom: 110px;
+	}
+	 .s_content h1 {
+		    font-size: 26px;
+		}
+		.s_content p {
+		    font-size: 15px;
+		}
+		.b_sl {
+		    width: 143px;
+			}
+     /*slider end*/
+     /*welcome start*/
+     .box {
+	    padding: 13px 5px 10px;
+	    margin-bottom: 30px;
+	}
+      .arr_logo {
+	    height: 25px;
+	 }
+		 .arr_h1 {
+	    font-size: 17px;
+	    margin-top: 2px;
+	    margin-bottom: 12px;
+	}
+	.w_content p {
+	    font-size: 15px;
+	    margin-bottom: 62px;
+	}
+	.brand1 {
+    width: 0;
+    background-color: none;
+    margin-left: 94px;
+    margin-top: -28px;
+    margin-bottom: 14px;
+}
+	.brand1 i {
+    width: 39px;
+    font-size: 38px;
+    background-color: white;
+}
+	.box h2 {
+	    font-size:16px;
+	    margin-bottom: 16px;
+	}
+	.box p {
+    font-size: 15px;
+    margin-bottom: 19px;
+}
+      /*welcome end*/
+      
+
+	 }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*header start*/
+	.drp_menu {
+		    min-width:300px;
+		    padding: 5px 5px;
+		}
+	 .drp_menu[data-bs-popper] {
+		    top: -14px;
+		    left: 78px;
+		}
+	/*header end*/
+     /*slider start*/
+     .s_content {
+	    padding-top: 100px;
+	    padding-bottom: 150px;
+	}
+	 .s_content h1 {
+		    font-size: 45px;
+		}
+		.s_content p {
+		    font-size: 15px;
+		}
+     /*slider end*/
+     /*welcome start*/
+     .box {
+	    padding: 13px 5px 10px;
+	    margin-bottom: 30px;
+	}
+      .arr_logo {
+	    height: 25px;
+	 }
+		 .arr_h1 {
+	    font-size: 17px;
+	    margin-top: 2px;
+	    margin-bottom: 12px;
+	}
+	.w_content p {
+	    font-size: 15px;
+	    margin-bottom: 62px;
+	}
+	.brand1 {
+    width: 0;
+    background-color: none;
+    margin-left: 94px;
+    margin-top: -28px;
+    margin-bottom: 14px;
+}
+	.brand1 i {
+    width: 39px;
+    font-size: 38px;
+    background-color: white;
+}
+	.box h2 {
+	    font-size:16px;
+	    margin-bottom: 16px;
+	}
+	.box p {
+    font-size: 15px;
+    margin-bottom: 19px;
+}
+      /*welcome end*/
+      
+	 }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*header start*/
+			.drp_menu {
+		    padding: 5px 8px;
+		}
+	 .drp_menu[data-bs-popper] {
+		    top: -14px;
+		    left: 78px;
+		}
+	/*header end*/
+	/*slider start*/
+      .s_content h1 {
+		    font-size: 40px;
+		}
+      /*slider end*/
+      /*welcome start*/
+      .box {
+	    padding: 10px 5px 12px;
+	}
+      .arr_logo {
+	    height: 25px;
+	 }
+		 .arr_h1 {
+	    font-size: 20px;
+	    margin-top: 4px;
+	    margin-bottom: 18px;
+	}
+	.w_content p {
+	    font-size: 15px;
+	    margin-bottom: 62px;
+	}
+	.brand1 {
+    width: 0;
+    background-color: none;
+    margin-left: 49px;
+    margin-top: -28px;
+    margin-bottom: 14px;
+}
+	.brand1 i {
+    width: 39px;
+    font-size: 38px;
+    background-color: white;
+}
+	.box h2 {
+	    font-size:16px;
+	    margin-bottom: 18px;
+	}
+	.box p {
+    font-size: 15px;
+    margin-bottom: 19px;
+}
+      /*welcome end*/
+      
+	 }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+		/*header start */
+		.drp_menu[data-bs-popper] {
+			    top: 51px;
+			}
+		/*header end */
+      /*slider start*/
+      .s_content h1 {
+		    font-size: 40px;
+		}
+      /*slider end*/
+		
+	 }
+	 /*who start*/
+	 .who1 {
+	    width: 223px;
+	}
+	 /*who end*/
+	 /*price start*/
+	 .box2 {
+	    margin-left: 22px;
+	}
+		.m_price {
+	    width: 174px;
+	}
+	 /*price end*/
+
+/*X-Large devices (large desktops, less than 1400px)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+      
+		
+	 }
+
+ /*XX-Large devices(large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+      
+
+	 }
